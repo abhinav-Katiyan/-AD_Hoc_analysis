@@ -1,4 +1,4 @@
-# -AD_Hoc_analysis
+
 
 <h1>AD_Hoc_Analysis </h1>
 <h2>An Insight-Providing Financial and Sales Analysis Challenge for Management in the Consumer Goods Sector
